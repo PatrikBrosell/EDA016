@@ -1,0 +1,3 @@
+[submodule "Mandelbrot"]
+	path = Mandelbrot
+	url = https://github.com/PatrikBrosell/Mandelbrot.git
