@@ -1,3 +1,6 @@
 [submodule "Mandelbrot"]
 	path = Mandelbrot
 	url = https://github.com/PatrikBrosell/Mandelbrot.git
+[submodule "TurtleRace"]
+	path = TurtleRace
+	url = https://github.com/PatrikBrosell/TurtleRace.git
